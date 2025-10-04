@@ -13,3 +13,7 @@ A RESTful API built with PHP and MySQL to manage a simple product catalog.
 
 1. Clone the repository or unzip the files.
 2. Import `schema.sql` into MySQL:
+
+## Github Repo Link
+
+https://github.com/rjaygonato/Promethex_AI
